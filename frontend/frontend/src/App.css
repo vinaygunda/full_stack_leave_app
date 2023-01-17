@@ -1,0 +1,30 @@
+.App{
+  background-color:#ddd;
+}
+.login-form-box{
+  display:flex;
+justify-content: center;
+align-items:center;
+width: 100vw;
+height: 100vh;
+}
+
+
+
+
+.login-form{
+  width: 400px;
+    background-color:skyblue;
+    padding: 30px
+}
+
+
+.login-title{
+  text-align:center;
+}
+
+
+.link-color{
+  color:blueviolet
+}
+
